@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <style type="text/css">
+
+/* ### Wrapper ###  */
        
   #wrapper {
     width: 100%;
@@ -179,7 +181,7 @@
 
 
 
-/* #content   */
+/* ### content ###  */
 
   #content{
     width: 63%;
